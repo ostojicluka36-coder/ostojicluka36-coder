@@ -1,4 +1,4 @@
-<img src="koi/koi.gif" width="256" alt="My koi" />
+<img src="koi/koi.gif" width="512" alt="My koi" />
 
 <!--
 **ostojicluka36-coder/ostojicluka36-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
