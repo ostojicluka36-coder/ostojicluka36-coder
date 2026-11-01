@@ -1,4 +1,4 @@
-<img src="koi/koi.gif" width="512" alt="My koi" />
+<div align="center"> <img src="assets/gear.svg" alt="Spinning pixel-art Factorio-style gear" width="860"> </div>
 
 <!--
 **ostojicluka36-coder/ostojicluka36-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
